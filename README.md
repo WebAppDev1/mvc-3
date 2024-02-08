@@ -1,4 +1,5 @@
-# readme-only-starter
+# MVC Lab 3
 
-This Glitch starter project is empty apart from this README.md file! Update this file after you add some contents.
+Adding dynamic views to the app
+Using custom Handlebars helpers
 
