@@ -7,23 +7,17 @@
         {
           "id" : "04",
           "title": "Piano Sonata No. 3",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 11
+          "artist": "Beethoven"
         },
         {
           "id" : "05",
           "title": "Piano Sonata No. 7",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 33
+          "artist": "Beethoven"
         },
         {
           "id" : "06",
           "title": "Piano Sonata No. 10",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 15
+          "artist": "Beethoven"
         }
       ]
     },
@@ -34,23 +28,17 @@
         {
           "id" : "07",
           "title": "Piano Concerto No. 0",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 17
+          "artist": "Beethoven"
         },
         {
           "id" : "08",
           "title": "Piano Concerto No. 4",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 25
+          "artist": "Beethoven"
         },
         {
           "id" : "09",
           "title": "Piano Concerto No. 6",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 29
+          "artist": "Beethoven"
         }
       ]
     },
