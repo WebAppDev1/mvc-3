@@ -1,4 +1,7 @@
-# MVC Lab 2
+# MVC Lab 3
 
-Adding models and views to the app
+Adding the playlist store
+Using Handlebars helpers
+Adding dynamic views to the app
+
 
