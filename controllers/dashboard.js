@@ -1,7 +1,8 @@
 'use strict';
 
 import logger from "../utils/logger.js";
-import playlistStore from "../models/playlist-store.js";
+import playlistStore from '../models/playlist-store.js';
+
 
 const dashboard = {
   createView(request, response) {
@@ -13,7 +14,7 @@ const dashboard = {
     };
     
     logger.debug(viewData.playlists);
-    
+
     response.render('dashboard', viewData);
   },
 };
